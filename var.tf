@@ -11,3 +11,4 @@ variable "engine" {}
 variable "engine_version" {}
 variable "no_of_instances" {}
 variable "instance_class" {}
+variable "allow_subnets" {}
